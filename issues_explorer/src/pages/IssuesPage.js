@@ -309,7 +309,7 @@ class IssuesPage extends Component {
                                 <div>
                                     <CircularProgress />
                                 </div>
-                            )};
+                            )}
                     </Grid>
                 </Grid>
             </Fragment>
