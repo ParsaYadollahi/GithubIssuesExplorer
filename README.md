@@ -20,4 +20,5 @@ Steps to run program mentioned in the issues_explorer folder
 
 ## Acknowledgments
 
-* Glad I did this small project. Got to learn more than I thought I would about react and UI
+* Make sure you know about stashing before you '_git reset --hard origin_' and pop all the saved stashs just to lose all your work.
+* Got to learn more about react and UI than I thought I would from a small project.
