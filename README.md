@@ -20,4 +20,4 @@ Steps to run program mentioned in the issues_explorer folder
 
 ## Acknowledgments
 
-* Glad I did this small project. Got to learn a lot about react and UI
+* Glad I did this small project. Got to learn more than I thought I would about react and UI
