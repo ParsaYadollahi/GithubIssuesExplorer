@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 // Router
-import{ BrowserRouter as Router , Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 // MUI
 import { ThemeProvider } from '@material-ui/core/styles';
@@ -25,9 +25,6 @@ function App() {
         </Switch>
       </Router>
     </ThemeProvider>
-
-
-
   );
 }
 
