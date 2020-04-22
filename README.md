@@ -1,12 +1,17 @@
-# github_Issues_Explorer
+# GithubIssuesExplorer
+
 Web App that displays a repos issues and pull requests while allowing them to filter states.
 
-![alt text](https://github.com/ParsaYadollahi/github_Issues_Explorer/blob/master/images/Screen%20Shot%202020-01-24%20at%209.28.00%20AM.png)
-![alt text](https://github.com/ParsaYadollahi/github_Issues_Explorer/blob/master/images/Screen%20Shot%202020-01-24%20at%209.28.17%20AM.png)
+![alt text](./images/Screen%20Shot%202020-01-24%20at%209.28.00%20AM.png)
+![alt text](./images/Screen%20Shot%202020-01-24%20at%209.28.17%20AM.png)
 
 ## Getting Started
 
-Steps to run program mentioned in the issues_explorer folder
+Steps to run program.
+
+1. Clone this repository.
+2. Run `npm install` to install dependencies.
+3. You can now run `npm start` to see the app on `http://localhost:3000`.
 
 ## Usage
 
