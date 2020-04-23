@@ -2,6 +2,8 @@
 
 Web App that displays a repos issues and pull requests while allowing them to filter states.
 
+App hosted on Heroku here: https://githubissuesexplorer.herokuapp.com/
+
 ![alt text](./images/Screen%20Shot%202020-01-24%20at%209.28.00%20AM.png)
 ![alt text](./images/Screen%20Shot%202020-01-24%20at%209.28.17%20AM.png)
 
